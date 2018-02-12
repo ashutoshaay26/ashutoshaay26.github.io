@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Ashutosh Kakadiya"
-  avatar           : "profile.png"
+  avatar           : "profilepic.png"
   bio              : "Final year B.Tech student at SEAS, Ahmedabad University. Undergraduate Research in Deep Learning & Machine Learning"
   location         : "Ahmedabad, India"
   employer         :
@@ -90,14 +90,14 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "ashutosh.kakadiya"
   foursquare       :
   github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        : "ashutoshaay26"
   lastfm           :
-  linkedin         : "https://in.linkedin.com/in/ashutosh-kakadiya-3964a5a7"
+  linkedin         : "ashutosh-kakadiya-3964a5a7"
   orcid            :
   pinterest        :
   soundcloud       :
