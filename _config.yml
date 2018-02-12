@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ashutosh Kakadiya"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ashutosh Kakadiya"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Ashutosh Kakadiya"
   avatar           : "profile.png"
-  bio              : "Final year B.Tech student at SEAS, Ahmedabad University | Undergraduate Research in Deep Learning & Machine Learning"
+  bio              : "Final year B.Tech student at SEAS, Ahmedabad University. Undergraduate Research in Deep Learning & Machine Learning"
   location         : "Ahmedabad, India"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -95,16 +95,16 @@ author:
   github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "ashutoshaay26"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://in.linkedin.com/in/ashutosh-kakadiya-3964a5a7"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ashutoshaay26"
   vine             :
   weibo            :
   xing             :
