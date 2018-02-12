@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Ashutosh Kakadiya"
-  avatar           : "profilepic.png"
+  avatar           : "https://github.com/ashutoshaay26/ashutoshaay26.github.io/blob/master/images/profilepic.png"
   bio              : "Final year B.Tech student at SEAS, Ahmedabad University. Undergraduate Research in Deep Learning & Machine Learning"
   location         : "Ahmedabad, India"
   employer         :
