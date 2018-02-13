@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Ashutosh Kakadiya"
 title_separator          : "-"
 name                     : &name "Ashutosh Kakadiya"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Final year B.Tech student at SEAS, Ahmedabad University. Undergraduate Research in Deep Learning & Machine Learning"
+url                      : https://ashutoshaay26.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ashutoshaay26/ashutoshaay26.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         : "ashutosh.kakadiya"
   foursquare       :
-  github           : "academicpages"
+  github           : "ashutoshaay26"
   google_plus      :
   keybase          :
   instagram        : "ashutoshaay26"
