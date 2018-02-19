@@ -8,6 +8,6 @@ date: 2017-07-26
 location: "Ahmedabad, India"
 ---
 
-Lab sessions on various machine learning and data science algorithms and prepared tutorials in python for giving hands-on experience to attendees.
-I also took theory sessions on ML algorithms like Stochastic gradient descent, Multivariate linear regression and Kth nearest neighbour.<br>
+* Lab sessions on various machine learning and data science algorithms and prepared tutorials in python for giving hands-on experience to attendees.
+* I also took theory sessions on ML algorithms like Stochastic gradient descent, Multivariate linear regression and Kth nearest neighbour.<br>
 [[jupyter notebook]]()
