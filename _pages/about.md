@@ -13,3 +13,4 @@ redirect_from:
 </p>
 
 
+* I am pursuing Bachelor’s Degree in
