@@ -1,9 +1,9 @@
 ---
-title: "Multivariate Linear Regression"
+title: "Introduction to Machine Learning"
 collection: talks
 type: "Talk"
 permalink: /talks/2017-07-22-Multivariate-Linear-Regression
-venue: "Summer School  titled "Learning in Data Science:Models, Algorithms and Tools" "
+venue: "Summer School  titled Learning in Data Science:Models, Algorithms and Tools "
 date: 2017-07-26
 location: "Ahmedabad, India"
 ---
