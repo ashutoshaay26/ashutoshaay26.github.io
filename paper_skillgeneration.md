@@ -2,9 +2,9 @@
 title: "Correlated discrete data generation using adversarial training"
 collection: publications
 permalink: /publication/paper_skillgeneration
-<!--- excerpt: 'This paper is about the number 1. The number 2 is left for future work.'-->
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-04-03
-<!--- venue: 'Journal 1' -->
+venue: 'Journal 1'
 paperurl: 'https://arxiv.org/abs/1804.00925'
 
 ---
