@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ashutosh Kakadiya"
 title_separator          : "-"
 name                     : &name "Ashutosh Kakadiya"
-description              : &description "Final year B.Tech student at SEAS, Ahmedabad University. Undergraduate Research in Deep Learning & Machine Learning"
+description              : &description "MS by research student, Computer Science Department, Indian Institute of Technology (IIT) Madras"
 url                      : https://ashutoshaay26.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ashutoshaay26/ashutoshaay26.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Ashutosh Kakadiya"
   avatar           : "Shivoham.jpg"
-  bio              : "MS by research student, Computer Science Department, Indian Institute of Technology(IIT) Madras. "
+  bio              : "MS by research student, Computer Science Department, Indian Institute of Technology (IIT) Madras."
   location         : "Ahmedabad, India"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
