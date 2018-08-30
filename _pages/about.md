@@ -16,7 +16,7 @@ redirect_from:
 
 * I'm a first year MS by research student in Computer Science & Engineering department at [IIT Madras](http://www.cse.iitm.ac.in/), fortunate to be advised by Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/).
 
-* I hold Bachelor’s Degree in Information and Communication Technology from [School of Engineering and Applied Science, Ahmedabad, India](https://ahduni.edu.in/seas/).
+* I hold Bachelor’s Degree in Information and Communication Technology from [School of Engineering and Applied Science, Ahmedabad University, Ahmedabad, India](https://ahduni.edu.in/seas/).
 
 * I was a research & development intern at [ezdi India](https://www.ezdi.com/) in the field of machine learning. I am also part of undergraduate research group of a college in the area of deep learning.
 
