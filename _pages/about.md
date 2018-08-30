@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ">"_Excellence is a hobby, not an act._" "
+title: ">_Excellence is a hobby, not an act._ "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
