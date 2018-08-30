@@ -26,7 +26,7 @@ redirect_from:
 
 ## **Recent Updates**
 
-* Glad to share that paper "Correlated data generation using GAN and its Application for Skill recommendation" has been accepted at [DSHCM (colocated with ECML PKDD'18)](https://dshcm.org/)
+* **August 5, 2018** The paper "Correlated data generation using GAN and its Application for Skill recommendation" was accepted at [DSHCM (colocated with ECML PKDD'18)](https://dshcm.org/) 
 
-* Joined MS by research program in Computer Science Department at IIT, advised by Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/).
+* **July 9, 2018** Joined MS by research program in Computer Science Department at IIT Madras, advised by Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/). 
 
