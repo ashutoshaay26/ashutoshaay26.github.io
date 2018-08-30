@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,6 +12,8 @@ redirect_from:
   <img src="https://ashutoshaay26.github.io/files/Shivoham.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
 </p>
 -->
+## Recent Updates
+
 * I'm a first year MS by research student in Computer Science & Engineering department at [IIT Madras](http://www.cse.iitm.ac.in/), fortunate to be advised by Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/).
 
 * I hold Bachelor’s Degree in Information and Communication Technology from [School of Engineering and Applied Science, Ahmedabad, India](https://ahduni.edu.in/seas/).
