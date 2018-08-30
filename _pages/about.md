@@ -25,3 +25,8 @@ redirect_from:
 * My research interests lie in the general area of machine learning, particularly in deep learning and reinforcement learning, as well as applied the concepts to solve real world problems related to data science and machine learning. 
 
 ## **Recent Updates**
+
+* Glad to share that paper "Correlated data generation using GAN and its Application for Skill recommendation" has been accepted at [DSHCM (colocated with ECML PKDD'18)](https://dshcm.org/)
+
+* Joined MS by research program in Computer Science Department at IIT, advised by Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/).
+
