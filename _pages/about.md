@@ -22,12 +22,4 @@ redirect_from:
 
 * My research interests lie in the general area of machine learning, particularly in deep learning and reinforcement learning, as well as applied the concepts to solve real world problems related to data science and machine learning. 
 
----
-permalink: /
-title: "News"
-excerpt: "News"
-author_profile: true
-redirect_from: 
-  - /news/
-  - /news.html
----
+## Recent Updates
