@@ -13,7 +13,7 @@ redirect_from:
 </p>
 -->
 
-* I'm a first year MS by research student in Computer Science & Engineering department at [IIT Madras](http://www.cse.iitm.ac.in/), fortunate to be advised by Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/).
+* I'm a first year MS by research student in Computer Science & Engineering department at [IIT Madras](https://www.iitm.ac.in/), fortunate to be advised by Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/).
 
 * I hold Bachelor’s Degree in Information and Communication Technology from [School of Engineering and Applied Science, Ahmedabad University, Ahmedabad, India](https://ahduni.edu.in/seas/).
 
@@ -27,5 +27,5 @@ redirect_from:
 
 * **August 5, 2018** The paper "Correlated data generation using GAN and its Application for Skill recommendation" was accepted at [DSHCM (colocated with ECML PKDD'18)](https://dshcm.org/) 
 
-* **July 9, 2018** Joined MS by research program in Computer Science Department at IIT Madras, advised by Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/). 
+* **July 9, 2018** Joined MS by research program in Computer Science Department at [IIT Madras](http://www.cse.iitm.ac.in/), advised by Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/). 
 
