@@ -1,7 +1,7 @@
 ---
 <!-- layout: archive -->
-title: "Experience"
-permalink: /experience/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
