@@ -12,7 +12,7 @@ based correlated discrete data (CDD) generation model, with a detailed approach 
 presented over two datasets; job-seeking candidates skill set (private dataset) and MNIST (public dataset). This project proves 
 that the new model performs better than the existing model, as former leverages the inherent correlation in the data, while the 
 latter overlooks correlation. 
-Project webpage: [https://sites.google.com/view/seasau]
+Project webpage: [https://sites.google.com/view/seasau](https://sites.google.com/view/seasau)
 
 * **Human capital management system**
 Finding meaningful and fulfilling work and finding right talent for a given job is a challenging Human Capital Management (HCM) 
