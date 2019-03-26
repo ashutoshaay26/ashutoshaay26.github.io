@@ -21,9 +21,12 @@ redirect_from:
 
 
 
-* My research interests lie in the general area of machine learning, particularly in deep learning and reinforcement learning, as well as applied the concepts to solve real world problems related to data science and machine learning. 
+* My research interests lie in the general area of machine learning, particularly in reinforcement learning and deep learning, as well as applied the concepts to solve real world problems related to data science and machine learning. 
 
 # **Recent Updates**
+
+* **January 7, 2019** The paper "A Service-Oriented Human Capital Management Recommendation Platform" was accepted at [2019 Annual IEEE International System Conference(SysCon)](https://ieeesyscon.org/) 
+
 
 * **August 5, 2018** The paper "Correlated data generation using GAN and its Application for Skill recommendation" was accepted at [DSHCM (colocated with ECML PKDD'18)](https://dshcm.org/) 
 
