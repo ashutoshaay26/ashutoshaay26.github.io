@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper_skillgeneration
 excerpt: 'Deep Learning, Generative Adversarial Network, Autoencoder, Correlational Neural Networks.'
 date: 2018-04-03
-venue: 'arxiv.org'
+venue: '2nd Workshop on Data Science for Human Capital Management collocated with ECML-PKDD'
 paperurl: 'https://arxiv.org/abs/1804.00925'
 
 ---
