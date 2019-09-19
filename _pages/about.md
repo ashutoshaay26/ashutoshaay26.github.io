@@ -13,15 +13,14 @@ redirect_from:
 </p>
 -->
 
-* I'm a first year MS by research student in Computer Science & Engineering department at [IIT Madras](https://www.iitm.ac.in/), fortunate to be advised by Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/).
+* I'm a graduate student at [IIT Madras](https://www.iitm.ac.in/) pursuing MS by research in Computer Science. I am working with Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/) in the intersection of Reinforcement Learning and Statistical Relational Learning.
 
-* I hold Bachelor’s Degree in Information and Communication Technology from [School of Engineering and Applied Science, Ahmedabad University, Ahmedabad, India](https://ahduni.edu.in/seas/).
+* My research interests lie in the general area of machine learning, particularly in reinforcement learning and deep learning, as well as applying the concepts to solve real world problems in Finance, Healthcare, Automation and Human Capital Management.  
+
+* I hold Bachelor’s Degree in Information and Communication Technology from [School of Engineering and Applied Science, Ahmedabad University, Ahmedabad, India](https://ahduni.edu.in/seas/), where I was advised by Prof.[Ratnik Gandhi](https://sites.google.com/site/ratnikg) and Prof.[Sanjay Chaudhary](https://ahduni.edu.in/seas/people/faculty/sanjay-chaudhary).
 
 * I was a research & development intern at [ezdi India](https://www.ezdi.com/) in the field of machine learning. I am also part of undergraduate research group of a college in the area of deep learning.
 
-
-
-* My research interests lie in the general area of machine learning, particularly in reinforcement learning and deep learning, as well as applied the concepts to solve real world problems related to data science and machine learning. 
 
 # **Recent Updates**
 
