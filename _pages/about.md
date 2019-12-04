@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "The greatest challenge to any thinker is stating the problem in a way that will allow a solution. "
-excerpt: "The greatest challenge to any thinker is stating the problem in a way that will allow a solution."
+title: "About Me. "
+excerpt: "About Me."
 author_profile: true
 redirect_from: 
   - /about/
