@@ -24,6 +24,10 @@ redirect_from:
 
 # **Recent Updates**
 
+* **July 27, 2020** Invited as guest speaker to present "Introduction to Deep Reinforcement Learning and applications" at [Clique community: A project based community for women in STEM](https://www.linkedin.com/company/clique-interestship/)
+
+* **November 20 - December 5, 2019** Lab Instructor and tutor, Reinforcement Learning Crash Course Workshop for DRDO scientists at IITM Research Park.
+
 * **January 7, 2019** The paper "A Service-Oriented Human Capital Management Recommendation Platform" was accepted at [2019 Annual IEEE International System Conference(SysCon)](https://ieeesyscon.org/) 
 
 
