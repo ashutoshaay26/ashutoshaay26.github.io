@@ -22,7 +22,7 @@ redirect_from:
 * I was a research & development intern at [ezdi India](https://www.ezdi.com/) in the field of machine learning. I am also part of undergraduate research group of a college in the area of deep learning.
 
 
-# **Recent Updates**
+## **Recent Updates**
 
 * **July 27, 2020** Invited as guest speaker to present "Introduction to Deep Reinforcement Learning and applications" at [Clique community: A project based community for women in STEM](https://www.linkedin.com/company/clique-interestship/)
 
