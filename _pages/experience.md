@@ -6,13 +6,13 @@ permalink: /experience/
 author_profile: true
 ---
 
-### + **Internship**
+## + **Internship**
 
 * **Machine Learning Research And Development Intern** at [ezDI India](https://www.ezdi.com/). May 2017 - June 2018.
 
 ---
 
-### + **Professional Activities**
+## + **Professional Activities**
 
 * **Lab Instructor**, Reinforcement Learning Crash Course Workshop for DRDO scientists at IITM Research Park, December’19
 
