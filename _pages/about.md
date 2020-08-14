@@ -24,6 +24,8 @@ redirect_from:
 
 ## **Recent Updates**
 
+* **August5, 2020** Selected for [Google AI Summer School](https://sites.google.com/view/aisummerschool2020/home), hosted by Google Research India. I'm one of the 150 recipients among thousand of applications. The summer school will be held from 20 august to 22 august 2020. 
+
 * **July 27, 2020** Invited as guest speaker to present "Introduction to Deep Reinforcement Learning and applications" at [Clique community: A project based community for women in STEM](https://www.linkedin.com/company/clique-interestship/)
 
 * **November 20 - December 5, 2019** Lab Instructor and tutor, Reinforcement Learning Crash Course Workshop for DRDO scientists at IITM Research Park.
