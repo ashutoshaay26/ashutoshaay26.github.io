@@ -9,6 +9,5 @@ location: "Ahmedabad, India"
 ---
 
 * Lab sessions on various machine learning and data science algorithms and prepared tutorials in python for giving hands-on experience to attendees.
-* I conducted theory sessions on ML algorithms like Stochastic gradient descent, Multivariate linear regression and Kth nearest neighbour.
-[[jupyter notebook]]()
+* I conducted theory sessions on basic ML algorithms like Stochastic gradient descent, Multivariate linear regression, Logstic regression and Kth nearest neighbour.
 * More about summer school, you can find [[Here]](https://sites.google.com/view/seasschool2017/home?authuser=0)
