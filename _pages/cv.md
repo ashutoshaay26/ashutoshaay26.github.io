@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://ashutoshaay26.github.io/files/CV_latest.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://ashutoshaay26.github.io/files/Ashutosh_Resume.pdf)
