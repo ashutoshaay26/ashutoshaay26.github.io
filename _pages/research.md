@@ -4,6 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+* **Relational Contextual Bandits in real world user interaxtions**
+Contextual bandits algorithms have become essential in real-world user interaction problems  in  recent  years. However,these algorithms represent context as attribute value  representation, which makes them infeasible for real-world domains like social networks which are inherently relational.We proposeRelational Boosted Bandits(RB2), a contextualbandits algorithm for relational domains based on relational boosted trees. RB2enables us to learn interpretable and explainable models due to the more descriptive  nature of therelational representation. We empirically demonstrate the effectiveness and interpretability of RB2 on tasks such as linkprediction, relational classification, and recommendation.
 
 * **Correlated discrete data generation using adversarial training** 
 Generative Adversarial Networks (GAN) have shown great promise in tasks like synthetic image generation, image inpainting, style 
