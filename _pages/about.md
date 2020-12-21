@@ -23,7 +23,7 @@ redirect_from:
 
 
 ## **Recent Updates**
-* **December 2,2020** The work "Relational Boosted Bandits" was accepted as full paper at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/aaai21call/).Pre-print[https://arxiv.org/pdf/2012.09220.pdf]
+* **December 2,2020** The work "Relational Boosted Bandits" was accepted as full paper at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/aaai21call/).[Pre-print](https://arxiv.org/pdf/2012.09220.pdf)
 * **August 22, 2020** The workshop paper "Relational Contextual Bandits" was accepted at [2020 REVEAL: Bandit and Reinforcement Learning from User Interactions, ACM Recommender Systems](https://sites.google.com/view/reveal2020/home?authuser=0) 
 
 * **August 5, 2020** Selected for [Google AI Summer School](https://sites.google.com/view/aisummerschool2020/home), hosted by Google Research India. I'm one of the 150 recipients among thousand of applications. The summer school will be held from 20 august to 22 august 2020. 
