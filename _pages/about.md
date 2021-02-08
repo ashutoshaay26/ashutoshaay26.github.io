@@ -23,6 +23,9 @@ redirect_from:
 
 
 ## **Recent Updates**
+* **February 6, 2020** Invited as guest speaker to present "Hands-on Machine Learning" at [Programming Club, Ahmedabad University](https://www.instagram.com/p/CK2vLGCAdLS/?utm_source=ig_web_copy_link)
+* **February 6, 2020** Invited as guest speaker to present "Introduction to Clustering" at [VIT Mathematical Chapter](https://www.instagram.com/p/CK0_FNSBIW8/)
+
 * **December 2,2020** The work "Relational Boosted Bandits" was accepted as full paper at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/aaai21call/).[Pre-print](https://arxiv.org/pdf/2012.09220.pdf)
 * **August 22, 2020** The workshop paper "Relational Contextual Bandits" was accepted at [2020 REVEAL: Bandit and Reinforcement Learning from User Interactions, ACM Recommender Systems](https://sites.google.com/view/reveal2020/home?authuser=0) 
 
