@@ -2,7 +2,7 @@
 title: "Hands-on Machine Learning"
 collection: talks
 type: "Talk"
-permalink: /talks/2020-02-06-Introduction-to-Clustering
+permalink: /talks/2021-02-06-Introduction-to-Clustering
 venue: "VIT Mathematical Chapter, Vellore Institute of Technology"
 date: 2021-02-06
 location: "Ahmedabad, India(Virtual)"
