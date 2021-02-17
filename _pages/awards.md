@@ -4,6 +4,7 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
+* Selected for **[Google AI Research Summer School]** (https://sites.google.com/view/aisummerschool2020/home), hosted by Google Research India. I'm one of the 150 recipients among thousand of applications. August, 2020. 
 * **IEEE EXTREME** Secure 25th rank in all over India in 24 hour algorithmic programming competition held by IEEE. 2016
 * **University level Runners up in Programminng contest** Secure 2nd position in programming contest at Ahmedabad University and Informatics Institute of Technology, Sri Lanka. 2016
 * **Secure 4th position in CodeoverSeas** Secure 4th position in programming contest jointly held by Ahmedabad University, India and Informatics Institute of Technology, Shri Lanka. 2016
