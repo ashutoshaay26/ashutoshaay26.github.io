@@ -2,7 +2,7 @@
 title: "Hands-on Machine Learning"
 collection: talks
 type: "Talk"
-permalink: /talks/2020-02-06-Hands-on-Machine-Learning
+permalink: /talks/2021-02-06-Hands-on-Machine-Learning
 venue: "Programming CLub, Ahmedabad University "
 date: 2020-02-06
 location: "Ahmedabad, India(Virtual)"
