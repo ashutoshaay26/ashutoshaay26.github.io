@@ -23,6 +23,7 @@ redirect_from:
 
 
 ## **Recent Updates**
+* **February 9, 2021** Presented the work "Relational Boosted Bandits"(accepted at AAAI'21) at [9th RBCDSAI workshop on Recent Progress in Data Science and AI](https://sites.google.com/view/rbcdsai-9th-workshop/speakers?authuser=0). You can find the recorded talk [HERE](https://youtu.be/XW33atz_2SQ?t=5748)
 * **February 6, 2021** Invited as guest speaker to present "Hands-on Machine Learning" at [Programming Club, Ahmedabad University](https://www.instagram.com/p/CK2vLGCAdLS/?utm_source=ig_web_copy_link)
 * **February 6, 2021** Invited as guest speaker to present "Introduction to Clustering" at [VIT Mathematical Chapter](https://www.instagram.com/p/CK0_FNSBIW8/)
 
