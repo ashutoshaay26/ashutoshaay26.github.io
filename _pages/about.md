@@ -15,7 +15,7 @@ redirect_from:
 
 * I'm a graduate student at [IIT Madras](https://www.iitm.ac.in/) pursuing MS by research in Computer Science. I am working with Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/) and Prof. [Sriraam Natarajan](https://personal.utdallas.edu/~sriraam.natarajan/) in the intersection of Reinforcement Learning and Statistical Relational Learning.
 
-* My research interests lie in the general area of machine learning, particularly in reinforcement learning and deep learning, as well as applying the concepts to solve real world problems in Finance, Healthcare, Automation and Human Capital Management.  
+* My research interests lie in the general area of machine learning, particularly in reinforcement learning and deep learning, as well as applying the concepts to solve real world problems in Personalization, Finance, Healthcare, Automation and Human Capital Management.  
 
 * I hold Bachelor’s Degree in Information and Communication Technology from [School of Engineering and Applied Science, Ahmedabad University, Ahmedabad, India](https://ahduni.edu.in/seas/), where I was advised by Prof.[Ratnik Gandhi](https://sites.google.com/site/ratnikg) and Prof.[Sanjay Chaudhary](https://ahduni.edu.in/seas/people/faculty/sanjay-chaudhary).
 
