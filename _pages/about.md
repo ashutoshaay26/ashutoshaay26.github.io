@@ -12,10 +12,10 @@ redirect_from:
   <img src="https://ashutoshaay26.github.io/files/Shivoham.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
 </p>
 -->
+* I'm Machine learning scientist at [Amazon science](https://www.amazon.science/). I am part of performace advertising core engine team at Amazon Bangalore, India. 
+* I was graduate student at [IIT Madras](https://www.iitm.ac.in/) pursuing MS by research in Computer Science (Thesis submitted). I worked with Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/) and Prof. [Sriraam Natarajan](https://personal.utdallas.edu/~sriraam.natarajan/) in the intersection of Reinforcement Learning and Statistical Relational Learning.
 
-* I'm a graduate student at [IIT Madras](https://www.iitm.ac.in/) pursuing MS by research in Computer Science. I am working with Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/) and Prof. [Sriraam Natarajan](https://personal.utdallas.edu/~sriraam.natarajan/) in the intersection of Reinforcement Learning and Statistical Relational Learning.
-
-* My research interests lie in the general area of machine learning, particularly in reinforcement learning and deep learning, as well as applying the concepts to solve real world problems in Personalization, Finance, Healthcare, Automation and Human Capital Management.  
+* My interests lie in the general area of machine learning, particularly in reinforcement learning and deep learning, as well as applying the concepts to solve real world problems in Personalization, Finance, Healthcare, Automation and Human Capital Management.  
 
 * I hold Bachelor’s Degree in Information and Communication Technology from [School of Engineering and Applied Science, Ahmedabad University, Ahmedabad, India](https://ahduni.edu.in/seas/), where I was advised by Prof.[Ratnik Gandhi](https://sites.google.com/site/ratnikg) and Prof.[Sanjay Chaudhary](https://ahduni.edu.in/seas/people/faculty/sanjay-chaudhary).
 
@@ -23,6 +23,7 @@ redirect_from:
 
 
 ## **Recent Updates**
+* **May 31, 2021** Joined Amazon Science as Machine Learning Scientist.
 * **February 9, 2021** Presented the work "Relational Boosted Bandits"(accepted at AAAI'21) at [9th RBCDSAI workshop on Recent Progress in Data Science and AI](https://sites.google.com/view/rbcdsai-9th-workshop/speakers?authuser=0). You can find the recorded talk [HERE](https://youtu.be/XW33atz_2SQ?t=5748)
 * **February 6, 2021** Invited as guest speaker to present "Hands-on Machine Learning" at [Programming Club, Ahmedabad University](https://www.instagram.com/p/CK2vLGCAdLS/?utm_source=ig_web_copy_link)
 * **February 6, 2021** Invited as guest speaker to present "Introduction to Clustering" at [VIT Mathematical Chapter](https://www.instagram.com/p/CK0_FNSBIW8/)
