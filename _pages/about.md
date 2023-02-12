@@ -13,7 +13,8 @@ redirect_from:
 </p>
 -->
 * I'm Machine learning scientist at [Amazon science](https://www.amazon.science/). I am part of performace advertising core engine team at Amazon Bangalore, India. 
-* I was graduate student at [IIT Madras](https://www.iitm.ac.in/) pursuing MS by research in Computer Science (Thesis submitted). I worked with Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/) and Prof. [Sriraam Natarajan](https://personal.utdallas.edu/~sriraam.natarajan/) in the intersection of Reinforcement Learning and Statistical Relational Learning.
+* I was graduate student at [IIT Madras](https://www.iitm.ac.in/) pursuing MS by research in Computer Science. I worked with Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/)(IIT Madras) and Prof. [Sriraam Natarajan](https://personal.utdallas.edu/~sriraam.natarajan/)(
+The University of Texas at Dallas) in the intersection of Reinforcement Learning and Statistical Relational Learning. My thesis got pulished as long paper at top tier AI coference AAAI'21
 
 * My interests lie in the general area of machine learning, particularly in reinforcement learning and deep learning, as well as applying the concepts to solve real world problems in Personalization, Finance, Healthcare, Automation and Human Capital Management.  
 
