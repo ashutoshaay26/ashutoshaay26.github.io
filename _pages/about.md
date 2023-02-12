@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://ashutoshaay26.github.io/files/Shivoham.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
 </p>
 -->
-* I'm Machine learning scientist at [Amazon science](https://www.amazon.science/). I am part of Advertising Trust team at Amazon Bangalore, India. Building large scale ML Ads moderation system. 
+* I'm Machine learning scientist at [Amazon science](https://www.amazon.science/). I am part of Advertising Trust team at Amazon Bangalore, India. Building large scale ML systems in Ad moderation system. 
 * I was graduate student at [IIT Madras](https://www.iitm.ac.in/) pursuing MS by research in Computer Science. I worked with Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/)(IIT Madras) and Prof. [Sriraam Natarajan](https://personal.utdallas.edu/~sriraam.natarajan/)(
 The University of Texas at Dallas) in the intersection of Reinforcement Learning and Statistical Relational Learning. My thesis got published as long paper at top tier AI conference [AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17439).
 
