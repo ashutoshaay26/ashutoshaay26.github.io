@@ -12,6 +12,18 @@ author_profile: true
 
 Welcome to my playground. Here is a bit about my interests and things I do except training AI models that a typical human beings love in daily life :)
 
+
+## + **Outside of Work**
+- Go for either walk or run; Cardio exercise or Breath work - Clears mind
+- Go on drive; catch up with friends
+- Chit-chat with Family 
+- Playing cricket, bedminton, tennis or computer games
+- Networking sometimes
+- Sleep - Favourite hobby :)
+
+---
+
+
 ## + **People and events who made profound impact on my life trajectory** 
 - **Parents** : Most important in life. Inherit DNA, Morals, basics and memories
 - **High school science teachers**
@@ -37,11 +49,15 @@ I listen jazz, metal, sufi, indian fusion, indian classical, Gujarati folk, Bhaj
 - Estas Tonne
 - Krishna Das
 
+---
+
+## + **Photography**
+I love to capture nature and human emotions while travelling. Checkout my instagram (@ashutoshaay26)[https://instagram.com/ashutoshaay26].
 
 ---
 
 ## + **Read**
-I often read. Reading helps me to retain my attention span in current cheap dopamine world. Here are set of themes that I am interested and always tempted to purchase books
+I often read. Reading helps me to retain my attention span in current cheap dopamine world. Here are set of themes that I am interested and always tempted to purchase books of
 - Human Psychology
 - Personal Improvement
 - Longevity
@@ -57,6 +73,7 @@ I love travelling and backpacking. Always fascinated about vivid cultures and hu
 - Rishikesh
 - Sikkim
 - Darjeeling
+- Haridwar
 - Jammu & Kashmir
 - Udaipur
 - Mussoorie
