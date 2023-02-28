@@ -54,7 +54,7 @@ I listen jazz, metal, sufi, indian fusion, indian classical, Gujarati folk, Bhaj
 ---
 
 ## + **Photography**
-I love to capture nature and human emotions while travelling. Checkout my instagram [@ashutoshaay26](https://instagram.com/ashutoshaay26).
+I love to capture nature and human emotions while travelling. Checkout my instagram [@ashutoshaay26](https://instagram.com/ashutoshaay26/).
 
 ---
 
