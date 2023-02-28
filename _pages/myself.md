@@ -12,15 +12,15 @@ author_profile: true
 
 Welcome to my playground. Here is a bit about my interests and things I do except training AI models that a typical human beings love in daily life :)
 
-## + **People who made profound impact on my life trajectory** 
+## + **People and events who made profound impact on my life trajectory** 
 - **Parents** : Most important in life. Inherit DNA, Morals, basics and memories
 - **High school science teachers**
 - **University Friend Circle** : Known as *Gutless SEAS*
 - **Prof. B Ravindran** : My research and life guide in IIT Madras
 - **[Naval](https://nav.al/)** : His wisdom shaped my thinking across financial decision, living life, human psychology and understanding & how the world works 
 - **Charlie Munger** : His mental models are boon for the world
-- **Birthplace** (not human but important) : Geography of birthplace is important luck for every human being
-
+- **Birthplace** : Geography of birthplace is important luck for every human being
+- **Indian Mythology** : Ramayana, Mahabharata, Lord Shiva, Chanakya Niti, history of Bharat 
 
 ---
 
