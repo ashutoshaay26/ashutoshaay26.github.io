@@ -6,7 +6,7 @@ permalink: /myself/
 author_profile: true
 ---
 
-> Life is a Picture, But You Live in a Pixel.
+> Life is a Picture, But We Live in a Pixel.
 
 > We think a lot about those closed paths of past, forgetting that it’s all still in our hands - new opened life paths. 
 
@@ -18,7 +18,7 @@ Welcome to my playground. Here is a bit about my interests and things I do excep
 - Catch up on current world trends on twitter
 - Go on drive; catch up with friends
 - Chit-chat with Family 
-- Studying and learning about long-term investing strategies; Identifying next multi baggers atleast 10x return companies :P
+- Studying and learning about long-term investing strategies; Identifying next multi baggers with atleast 10x return companies :P
 - Playing cricket, bedminton, tennis or computer games
 - Networking sometimes
 - Sleep - Favourite hobby :)

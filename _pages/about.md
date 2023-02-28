@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://ashutoshaay26.github.io/files/Shivoham.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
 </p>
 -->
-> Life is a Picture, But You Live in a Pixel.
+> Life is a Picture, But We Live in a Pixel.
 
 > We think a lot about those closed paths of past, forgetting that it’s all still in our hands - new opened life paths. 
 
