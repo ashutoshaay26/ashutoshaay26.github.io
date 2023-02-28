@@ -16,10 +16,17 @@ author_profile: true
 - Aditya Gadhvi
 - Mohit Chauhan
 - Estas Tonne
+- Krishna Das
+
+
 ---
 
-## + **Professional Activities**
+## + **Love to Read About**
 
-* **Lab Instructor**, Reinforcement Learning Crash Course Workshop for DRDO scientists at IITM Research Park, December’19
-
-* **Lab co-ordinator** of Summer School  titled "Learning in Data Science: Models, Algorithms and Tools" at [SEAS, Ahmedabad University](https://ahduni.edu.in/seas/). May 2017.
+- Human Psychology
+- Personal Improvement
+- Longevity
+- Finance / Investing
+- Vedanta
+- Indian Mythology
+- Micro Economics
