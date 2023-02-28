@@ -22,6 +22,8 @@ The University of Texas at Dallas) in the intersection of Reinforcement Learning
 
 * I was a research & development intern at [ezdi India](https://www.ezdi.com/) in the field of machine learning. I was part of undergraduate deep learning research group at Ahmedabad University.
 
+* I hail from the world heritage city of [Ahmedabad](https://ahmedabadcity.gov.in/), India.
+
 
 ## **Recent Updates**
 * **May 31, 2021** Joined Amazon Science as Machine Learning Scientist.
