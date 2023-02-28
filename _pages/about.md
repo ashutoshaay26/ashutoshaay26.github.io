@@ -26,7 +26,7 @@ The University of Texas at Dallas) in the intersection of Reinforcement Learning
 
 * I was a research & development intern at [ezdi India](https://www.ezdi.com/) in the field of machine learning. I was part of undergraduate deep learning research group at Ahmedabad University.
 
-* I hail from the world heritage city of [Ahmedabad](https://ahmedabadcity.gov.in/), India. Visit [Myself](https://ashutoshaay26.github.io/myself/) page on "A little bit about myself" - non professional introduction.
+* I hail from the world heritage city of [Ahmedabad](https://ahmedabadcity.gov.in/), India. Visit [Myself](https://ashutoshaay26.github.io/myself/) page on "A little bit about myself" - Life/interests outside of work.
 
 
 ## **Recent Updates**
