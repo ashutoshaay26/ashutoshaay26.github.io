@@ -15,8 +15,10 @@ Welcome to my playground. Here is a bit about my interests and things I do excep
 
 ## + **Outside of Work**
 - Go for either walk or run; Cardio exercise or Breath work - Clears mind
+- Catch up on current world trends on twitter
 - Go on drive; catch up with friends
 - Chit-chat with Family 
+- Studying and learning about long-term investing strategies; Identifying next multi baggers atleast 10x return companies :P
 - Playing cricket, bedminton, tennis or computer games
 - Networking sometimes
 - Sleep - Favourite hobby :)
@@ -52,7 +54,7 @@ I listen jazz, metal, sufi, indian fusion, indian classical, Gujarati folk, Bhaj
 ---
 
 ## + **Photography**
-I love to capture nature and human emotions while travelling. Checkout my instagram (@ashutoshaay26)[https://instagram.com/ashutoshaay26].
+I love to capture nature and human emotions while travelling. Checkout my instagram [@ashutoshaay26](https://instagram.com/ashutoshaay26).
 
 ---
 
