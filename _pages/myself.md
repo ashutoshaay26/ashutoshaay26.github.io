@@ -6,10 +6,16 @@ permalink: /myself/
 author_profile: true
 ---
 
-## + **Internship**
+## + **Favourite Musical Composors & Artists**
 
-* **Machine Learning Research And Development Intern** at [ezDI India](https://www.ezdi.com/). May 2017 - June 2018.
-
+- Hans Zimmer
+- A. R. Rahman
+- Ludovico Einaudi
+- Shankar-Ehsaan-Loy
+- Amit Trivedi
+- Aditya Gadhvi
+- Mohit Chauhan
+- Estas Tonne
 ---
 
 ## + **Professional Activities**
