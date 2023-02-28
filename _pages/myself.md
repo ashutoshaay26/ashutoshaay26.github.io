@@ -5,16 +5,26 @@ excerpt: "Myself"
 permalink: /myself/
 author_profile: true
 ---
+
+> Life is a Picture, But You Live in a Pixel
+> We think a lot about those closed paths of past, forgetting that it’s all still in our hands - new opened life paths. 
+
 Welcome to my playground. Here is a bit about my interests and things I do except training AI models that a typical human beings love in daily life :)
 
-## + **Favourite Musical Composors & Artists**
+## + **People who made profound impact on my life trajectory**
 
+
+---
+
+## + **Favourite Music Composers & Artists**
+I listen jazz, metal, sufi, indian fusion, indian classical, Gujarati folk, Bhajan. Cello, violin and drum are my favourite instruments. These are top artists contributing more than 60% of my listening time. 
 - Hans Zimmer
 - A. R. Rahman
 - Ludovico Einaudi
 - Shankar-Ehsaan-Loy
 - Amit Trivedi
 - Aditya Gadhvi
+- Osman Mir
 - Mohit Chauhan
 - Estas Tonne
 - Krishna Das
