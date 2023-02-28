@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Myself"
+title: "A little bit about myself"
 excerpt: "Myself"
 permalink: /myself/
 author_profile: true
