@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title:"Myself"
+    url: /myself/
+
   - title: "CV/BIO"
     url: /cv/ 
   
