@@ -45,6 +45,7 @@ I listen jazz, metal, sufi, indian fusion, indian classical, Gujarati folk, Bhaj
 - Ludovico Einaudi
 - Shankar-Ehsaan-Loy
 - Amit Trivedi
+- Sachin Jigar
 - Aditya Gadhvi
 - Osman Mir
 - Mohit Chauhan
