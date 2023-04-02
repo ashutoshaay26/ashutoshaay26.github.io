@@ -14,7 +14,7 @@ redirect_from:
 -->
 > Life is a Picture, But We Live in a Pixel.
 
-> We think a lot about those closed paths of past, forgetting that it’s all still in our hands - new opened life paths. 
+> All cards on the table, face up, all the time.
 
 * I'm Machine learning scientist at [Amazon science](https://www.amazon.science/). I am part of Advertising Trust team at Amazon Bangalore, India. Building large scale ML systems in Ad moderation system. 
 * I was graduate student at [IIT Madras](https://www.iitm.ac.in/) pursuing MS by research in Computer Science. I worked with Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/)(IIT Madras) and Prof. [Sriraam Natarajan](https://personal.utdallas.edu/~sriraam.natarajan/)(
