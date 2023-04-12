@@ -19,7 +19,7 @@ Welcome to my playground. Here is a bit about my interests and things I do excep
 - Go on drive; catch up with friends
 - Chit-chat with Family 
 - Studying and learning about long-term investing strategies; Identifying next multi baggers with atleast 10x return companies :P
-- Playing cricket, bedminton, tennis or computer games
+- Playing cricket, badminton, tennis or computer games
 - Networking sometimes
 - Sleep - Favourite hobby :)
 
