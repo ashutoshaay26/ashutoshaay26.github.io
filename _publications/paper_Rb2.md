@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper_Rb2
 excerpt: 'Contextual Bandits, Relational Learning, Reinforcement Learning, Gradient Boosting'
 date: 2020-12-16
-venue: 'To be appear at AAAI,2021'
+venue: 'AAAI,2021'
 paperurl: 'https://arxiv.org/pdf/2012.09220.pdf'
 
 ---
