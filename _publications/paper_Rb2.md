@@ -3,8 +3,8 @@ title: "Relational Boosted Bandits"
 collection: publications
 permalink: /publication/paper_Rb2
 excerpt: 'Contextual Bandits, Relational Learning, Reinforcement Learning, Gradient Boosting'
-date: 2020-12-16
-venue: 'AAAI,2021'
+date: 2021-01-16
+venue: 'AAAI'
 paperurl: 'https://arxiv.org/pdf/2012.09220.pdf'
 
 ---
