@@ -15,6 +15,7 @@ redirect_from:
 > Life is a Picture, But We Live in a Pixel.
 
 > All cards on the table, face up, all the time.
+
 * I'm a senior Machine Learning Scientist at [GoDaddy](https://www.godaddy.com/ai-for-small-businesses/). I work on dynamic pricing and building Generative AI products for millions of entrepreneurs to fuel their business growth and productivity.
 * Previously, I was a Machine learning applied scientist at [Amazon science](https://www.amazon.science/). I was part of the Advertising Trust team at Amazon Bangalore, India. Built large-scale ML systems catering 10 lakh ads per day in Ad moderation. 
 * I was graduate student at [IIT Madras](https://www.iitm.ac.in/) pursuing MS by research in Computer Science. I worked with Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/)(IIT Madras) and Prof. [Sriraam Natarajan](https://personal.utdallas.edu/~sriraam.natarajan/)(
