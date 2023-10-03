@@ -15,14 +15,14 @@ redirect_from:
 > Life is a Picture, But We Live in a Pixel.
 
 > All cards on the table, face up, all the time.
-
-* I'm Machine learning scientist at [Amazon science](https://www.amazon.science/). I am part of Advertising Trust team at Amazon Bangalore, India. Building large scale ML systems in Ad moderation system. 
+* I'm a senior Machine Learning Scientist at [GoDaddy](https://www.godaddy.com/ai-for-small-businesses/). I work on dynamic pricing and building Generative AI products for millions of entrepreneurs to fuel their business growth and productivity.
+* Previously, I was a Machine learning applied scientist at [Amazon science](https://www.amazon.science/). I was part of the Advertising Trust team at Amazon Bangalore, India. Built large-scale ML systems catering 10 lakh ads per day in Ad moderation. 
 * I was graduate student at [IIT Madras](https://www.iitm.ac.in/) pursuing MS by research in Computer Science. I worked with Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/)(IIT Madras) and Prof. [Sriraam Natarajan](https://personal.utdallas.edu/~sriraam.natarajan/)(
 The University of Texas at Dallas) in the intersection of Reinforcement Learning and Statistical Relational Learning. My thesis got published as long paper at top tier AI conference [AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17439).
 
 * My interests lie in the general area of machine learning, particularly in reinforcement learning and deep learning, as well as applying the concepts to solve real world problems in Personalization, Finance, Healthcare, Automation and Human Capital Management.  
 
-* I hold Bachelor’s Degree in Information and Communication Technology from [School of Engineering and Applied Science, Ahmedabad University, Ahmedabad, India](https://ahduni.edu.in/seas/), where I was advised by Prof.[Ratnik Gandhi](https://sites.google.com/site/ratnikg) and Prof.[Sanjay Chaudhary](https://ahduni.edu.in/seas/people/faculty/sanjay-chaudhary).
+* I hold a Bachelor’s Degree in Information and Communication Technology from [School of Engineering and Applied Science, Ahmedabad University, Ahmedabad, India](https://ahduni.edu.in/seas/), where I was advised by Prof.[Ratnik Gandhi](https://sites.google.com/site/ratnikg) and Prof.[Sanjay Chaudhary](https://ahduni.edu.in/seas/people/faculty/sanjay-chaudhary).
 
 * I was a research & development intern at [ezdi India](https://www.ezdi.com/) in the field of machine learning. I was part of undergraduate deep learning research group at Ahmedabad University.
 
@@ -30,7 +30,8 @@ The University of Texas at Dallas) in the intersection of Reinforcement Learning
 
 
 ## **Recent Updates**
-* **May 31, 2021** Joined Amazon Science as Machine Learning Scientist.
+* **Oct 03, 2023** Joined GoDaddy AI as a Senior Machine Learning Scientist.
+* **May 31, 2021** Joined Amazon Science as a Machine Learning Scientist.
 * **February 9, 2021** Presented the work "Relational Boosted Bandits"(accepted at AAAI'21) at [9th RBCDSAI workshop on Recent Progress in Data Science and AI](https://sites.google.com/view/rbcdsai-9th-workshop/speakers?authuser=0). You can find the recorded talk [HERE](https://youtu.be/XW33atz_2SQ?t=5748)
 * **February 6, 2021** Invited as guest speaker to present "Hands-on Machine Learning" at [Programming Club, Ahmedabad University](https://www.instagram.com/p/CK2vLGCAdLS/?utm_source=ig_web_copy_link)
 * **February 6, 2021** Invited as guest speaker to present "Introduction to Clustering" at [VIT Mathematical Chapter](https://www.instagram.com/p/CK0_FNSBIW8/)
