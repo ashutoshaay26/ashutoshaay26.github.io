@@ -58,7 +58,7 @@ I listen to jazz, metal, Sufi, Indian fusion, Indian classical, Gujarati folk, a
 
 ---
 
-## + ** All Time Favourite Movies**
+## + **All Time Favourite Movies**
 The list is long, but here are my top ones. Thriller, Documentaries, Action, Horror 
 - The Dark Knight Trilogy
 - Taxi Driver
