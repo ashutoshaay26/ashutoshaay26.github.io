@@ -30,6 +30,7 @@ Welcome to my playground. Here is a bit about my interests and things I do excep
 - **Parents**: Most essential in life. Inherit DNA, Morals, basics and memories
 - **High school science teachers**
 - **University Friend Circle** : Known as *Gutless SEAS*
+- **IIT Madras Journey** : From preparation journey to spending time at the campus. Immense learning & experiences with living with the best brains of India. Unforgettable.
 - **Prof. B Ravindran**: My research and life guide in IIT Madras
 - **[Naval](https://nav.al/)**: His wisdom shaped my thinking across financial decisions, living life, human psychology and understanding & how the world works 
 - **Charlie Munger**: His mental models are a boon for the world
