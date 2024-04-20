@@ -8,49 +8,68 @@ author_profile: true
 
 > Life is a Picture, But We Live in a Pixel.
 
-> We think a lot about those closed paths of past, forgetting that it’s all still in our hands - new opened life paths. 
+> We think a lot about those closed paths of the past, forgetting that it’s all still in our hands - new, opened life paths. 
 
-Welcome to my playground. Here is a bit about my interests and things I do except training AI models that a typical human beings love in daily life :)
+Welcome to my playground. Here is a bit about my interests and things I do except training AI models that typical human beings love in daily life :)
 
 
 ## + **Outside of Work**
-- Go for either walk or run; Cardio exercise or Breath work - Clears mind
-- Catch up on current world trends on twitter
-- Go on drive; catch up with friends
-- Chit-chat with Family 
+- Go for either a walk or run; Cardio exercise or Breathwork - Clears the mind
+- Catch up on current world trends on Twitter
+- Go on the drive; catch up with friends
+- Conversation with Family. As Marlon Brando said in the movie Godfather: "A Man Who Doesn’t Spend Time With His Family Can Never Be a Real Man." 
 - Studying and learning about long-term investing strategies; Identifying next multi baggers with atleast 10x return companies :P
 - Playing cricket, badminton, tennis or computer games
-- Networking sometimes
+- Networking with people across various domains
 - Sleep - Favourite hobby :)
 
 ---
 
 
-## + **People and events who made profound impact on my life trajectory** 
-- **Parents** : Most important in life. Inherit DNA, Morals, basics and memories
+## + **People and events who made a profound impact on my life trajectory** 
+- **Parents**: Most essential in life. Inherit DNA, Morals, basics and memories
 - **High school science teachers**
 - **University Friend Circle** : Known as *Gutless SEAS*
-- **Prof. B Ravindran** : My research and life guide in IIT Madras
-- **[Naval](https://nav.al/)** : His wisdom shaped my thinking across financial decision, living life, human psychology and understanding & how the world works 
-- **Charlie Munger** : His mental models are boon for the world
-- **Birthplace** : Geography of birthplace is important luck for every human being
-- **Indian Mythology** : Ramayana, Mahabharata, Lord Shiva, Chanakya Niti, history of Bharat 
+- **Prof. B Ravindran**: My research and life guide in IIT Madras
+- **[Naval](https://nav.al/)**: His wisdom shaped my thinking across financial decisions, living life, human psychology and understanding & how the world works 
+- **Charlie Munger**: His mental models are a boon for the world
+- **Birthplace**: Geography of birthplace is important luck for every human being
+- **Indian Mythology**: Ramayana, Mahabharata, Lord Shiva, Chanakya Niti, history of Bharat 
 
 ---
 
 ## + **Favourite Music Composers & Artists**
-I listen jazz, metal, sufi, indian fusion, indian classical, Gujarati folk, Bhajan. Cello, violin and drum are my favourite instruments. These are top artists contributing more than 60% of my listening time. 
+I listen to jazz, metal, Sufi, Indian fusion, Indian classical, Gujarati folk, and Bhajan. Cello, violin and drum are my favourite instruments. These are top artists contributing more than 60% of my listening time. 
 - Hans Zimmer
 - A. R. Rahman
+- Alan Walker
+- Adele
 - Ludovico Einaudi
 - Shankar-Ehsaan-Loy
 - Amit Trivedi
 - Sachin Jigar
+- Roop Kumar Rathod
 - Aditya Gadhvi
 - Osman Mir
 - Mohit Chauhan
 - Estas Tonne
 - Krishna Das
+
+---
+## + ** All Time Favourite Movies**
+The list is long, but here are my top ones. Thriller, Documentaries, Action, Horror 
+- The Dark Knight Trilogy
+- Taxi Driver
+- Godfather Trilogy
+- Grave of the Fireflies
+- Last Samurai
+- Arrival
+- Interstellar
+- Swades: We, the People
+- Tumbbad
+- Gangs of Wasseypur
+- Anand
+- Special Chabbis
 
 ---
 
@@ -60,7 +79,7 @@ I love to capture nature and human emotions while travelling. Checkout my instag
 ---
 
 ## + **Read**
-I often read. Reading helps me to retain my attention span in current cheap dopamine world. Here are set of themes that I am interested and always tempted to purchase books of
+I often read. Reading helps me retain my attention span in the cheap dopamine world. Here is a set of themes that I am interested in and always tempted to purchase books of
 - Human Psychology
 - Personal Improvement
 - Longevity
@@ -72,7 +91,7 @@ I often read. Reading helps me to retain my attention span in current cheap dopa
 ---
 
 ## + **Travelled and lived so far**
-I love travelling and backpacking. Always fascinated about vivid cultures and human emotions that India (Bharat) carries. I prefer mountains as a refreshing trip. Cool breeze + Morning Sunshine + trees are good enough to rejuvenate neurones.
+I love travelling and backpacking. Always fascinated by the vivid cultures and human emotions that India (Bharat) carries. I prefer the mountains as a refreshing trip. Cool breeze + Morning Sunshine + trees are good enough to rejuvenate neurones.
 - Rishikesh
 - Sikkim
 - Darjeeling
@@ -85,5 +104,5 @@ I love travelling and backpacking. Always fascinated about vivid cultures and hu
 - Mahabalipuram
 - Ooty 
 - Delhi NCR
-- Bengalore 
+- Bangalore 
 - Gujarat (Default)
