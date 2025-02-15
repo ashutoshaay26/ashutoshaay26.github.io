@@ -30,7 +30,7 @@ Welcome to my playground. Here is a bit about my interests and things I do excep
 - **Parents**: Most essential in life. Inherit DNA, Morals, basics and memories
 - **High school science teachers**
 - **University Friend Circle** : Known as *Gutless SEAS*
-- **IIT Madras Journey** : From preparation journey to spending time at the campus. Immense learning & experiences with living with the best brains of India. Unforgettable.
+- **IIT Madras Journey**: From preparation journey to spending time at the campus. Immense learning & experiences with living with the best brains of India. Unforgettable.
 - **Prof. B Ravindran**: My research and life guide in IIT Madras
 - **[Naval](https://nav.al/)**: His wisdom shaped my thinking across financial decisions, living life, human psychology and understanding & how the world works 
 - **Charlie Munger**: His mental models are a boon for the world
@@ -46,7 +46,9 @@ I listen to jazz, metal, Sufi, Indian fusion, Indian classical, Gujarati folk, a
 - Alan Walker
 - Adele
 - Ludovico Einaudi
+- Arijit Singh
 - Shankar-Ehsaan-Loy
+- Papon
 - Amit Trivedi
 - Sachin Jigar
 - Roop Kumar Rathod
@@ -94,14 +96,18 @@ I often read. Reading helps me retain my attention span in the cheap dopamine wo
 ---
 
 ## + **Travelled and lived so far**
-I love travelling and backpacking. Always fascinated by the vivid cultures and human emotions that India (Bharat) carries. I prefer the mountains as a refreshing trip. Cool breeze + Morning Sunshine + trees are good enough to rejuvenate neurones.
+I love travelling and backpacking. Always fascinated by the vivid cultures and human emotions that India (Bharat) carries. I prefer the mountains for resetting. Cool breeze + Morning Sunshine + trees are good enough to rejuvenate neurones.
 - Rishikesh
+- Himachal Pradesh
 - Sikkim
 - Darjeeling
 - Haridwar
 - Jammu & Kashmir
 - Udaipur
+- Jaipur
+- Ranthambhore
 - Mussoorie
+- Dehradoon
 - Bombay
 - Chennai
 - Mahabalipuram
