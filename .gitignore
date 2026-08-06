@@ -1,2 +1,17 @@
-_site/
+# Astro build output
+dist/
+.astro/
 
+# dependencies
+node_modules/
+
+# legacy Jekyll build output
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# logs & env
+*.log
+.DS_Store
+.env
+.env.production

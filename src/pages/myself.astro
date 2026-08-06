@@ -1,0 +1,85 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHeader from '../components/PageHeader.astro';
+import { personal } from '../data/content';
+import { profile } from '../data/profile';
+---
+
+<Base title="Myself" description="A little bit about myself — life and interests outside of work.">
+  <PageHeader eyebrow="Off the clock" title="A little about myself">
+    <p class="lead">
+      Welcome to my playground — a bit about my interests and the things I love outside of training
+      models.
+    </p>
+  </PageHeader>
+
+  <section class="container section--tight">
+    <blockquote class="myself-quote reveal">
+      {profile.quotes[0]}
+    </blockquote>
+
+    <div class="interest-grid">
+      {
+        personal.map((g) => (
+          <section class="interest reveal">
+            <h2>{g.heading}</h2>
+            {g.intro && <p class="text-muted interest__intro">{g.intro}</p>}
+            <ul class="interest__items">
+              {g.items.map((it) => <li>{it}</li>)}
+            </ul>
+          </section>
+        ))
+      }
+    </div>
+  </section>
+</Base>
+
+<style>
+  .myself-quote {
+    font-family: var(--font-serif);
+    font-size: var(--step-2);
+    font-style: italic;
+    color: var(--heading);
+    border-left: 3px solid var(--accent);
+    padding-left: var(--space-md);
+    max-width: var(--measure);
+    margin-bottom: var(--space-lg);
+  }
+  .interest-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));
+    gap: var(--space-lg) var(--space-xl);
+  }
+  .interest h2 {
+    font-size: var(--step-1);
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: var(--space-sm);
+  }
+  .interest__intro {
+    font-size: var(--step--1);
+    margin-bottom: var(--space-sm);
+  }
+  .interest__items {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+  .interest__items li {
+    position: relative;
+    padding-left: 1.1rem;
+    font-size: var(--step--1);
+  }
+  .interest__items li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.62em;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--accent);
+  }
+</style>

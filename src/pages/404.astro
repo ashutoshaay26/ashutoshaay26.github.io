@@ -1,0 +1,27 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="Page not found">
+  <section class="container notfound">
+    <span class="eyebrow">404</span>
+    <h1>This page wandered off.</h1>
+    <p class="text-muted">The link may be broken or the page may have moved.</p>
+    <a class="btn btn--primary" href="/">Back home</a>
+  </section>
+</Base>
+
+<style>
+  .notfound {
+    min-height: 55vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: var(--space-sm);
+    padding-block: var(--space-2xl);
+  }
+  .notfound .btn {
+    margin-top: var(--space-sm);
+  }
+</style>
