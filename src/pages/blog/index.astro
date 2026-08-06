@@ -1,0 +1,78 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import PageHeader from '../../components/PageHeader.astro';
+
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+
+const fmt = (d: Date) =>
+  d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<Base title="Writing" description="Essays and notes by Ashutosh Kakadiya.">
+  <PageHeader
+    eyebrow="Writing"
+    title="Writing"
+    lead="Occasional notes and experiences — from exam journeys to lessons learned along the way."
+  />
+
+  <section class="container section--tight">
+    <ul class="posts">
+      {
+        posts.map((post) => (
+          <li class="post reveal">
+            <a href={`/blog/${post.id}`} class="post__link">
+              <time class="post__date">{fmt(post.data.date)}</time>
+              <h2>{post.data.title}</h2>
+              {post.data.description && <p class="text-muted">{post.data.description}</p>}
+              <div class="tag-row post__tags">
+                {post.data.tags.map((t) => <span class="chip">{t}</span>)}
+              </div>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</Base>
+
+<style>
+  .posts {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  .post {
+    border-top: 1px solid var(--border);
+  }
+  .post:last-child {
+    border-bottom: 1px solid var(--border);
+  }
+  .post__link {
+    display: block;
+    padding: var(--space-lg) 0;
+    text-decoration: none;
+    color: inherit;
+  }
+  .post__link:hover h2 {
+    color: var(--accent-ink);
+  }
+  .post__date {
+    font-family: var(--font-mono);
+    font-size: 0.78rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--accent-ink);
+  }
+  .post h2 {
+    font-size: var(--step-2);
+    margin: 0.35rem 0 0.4rem;
+    transition: color var(--transition);
+  }
+  .post__tags {
+    margin-top: var(--space-sm);
+  }
+</style>

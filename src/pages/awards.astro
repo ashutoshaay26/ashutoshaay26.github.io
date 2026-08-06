@@ -1,0 +1,53 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHeader from '../components/PageHeader.astro';
+import { awards } from '../data/content';
+---
+
+<Base title="Awards & Honors" description="Awards and honors received by Ashutosh Kakadiya.">
+  <PageHeader
+    eyebrow="Recognition"
+    title="Awards & Honors"
+    lead="Scholarships, competitive-programming placements, and research recognitions along the way."
+  />
+
+  <section class="container section--tight">
+    <div class="award-grid">
+      {
+        awards.map((a) => (
+          <article class="card award reveal">
+            <span class="award__year">{a.year}</span>
+            <h2>{a.title}</h2>
+            <p class="text-muted">{a.detail}</p>
+          </article>
+        ))
+      }
+    </div>
+  </section>
+</Base>
+
+<style>
+  .award-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 17rem), 1fr));
+    gap: var(--space-md);
+  }
+  .award {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+  .award__year {
+    font-family: var(--font-mono);
+    font-size: 0.78rem;
+    color: var(--accent-ink);
+    letter-spacing: 0.04em;
+  }
+  .award h2 {
+    font-size: var(--step-1);
+    line-height: 1.2;
+  }
+  .award p {
+    font-size: var(--step--1);
+  }
+</style>

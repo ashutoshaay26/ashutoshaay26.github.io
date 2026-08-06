@@ -1,0 +1,199 @@
+---
+import ThemeToggle from './ThemeToggle.astro';
+import { profile } from '../data/profile';
+
+const links = [
+  { label: 'Research', href: '/research' },
+  { label: 'Publications', href: '/publications' },
+  { label: 'Talks', href: '/talks' },
+  { label: 'Experience', href: '/experience' },
+  { label: 'Awards', href: '/awards' },
+  { label: 'Writing', href: '/blog' },
+  { label: 'Myself', href: '/myself' },
+];
+
+const path = Astro.url.pathname.replace(/\/$/, '') || '/';
+const isActive = (href: string) =>
+  href === '/' ? path === '/' : path === href || path.startsWith(href + '/');
+---
+
+<header class="site-header">
+  <div class="container bar">
+    <a href="/" class="brand" aria-label="Home">
+      <span class="brand__mark">AK</span>
+      <span class="brand__name">{profile.name}</span>
+    </a>
+
+    <nav class="nav" aria-label="Primary">
+      {
+        links.map((l) => (
+          <a href={l.href} class:list={['nav__link', { active: isActive(l.href) }]}>
+            {l.label}
+          </a>
+        ))
+      }
+    </nav>
+
+    <div class="bar__actions">
+      <a class="btn btn--ghost cv-btn" href={profile.resumeUrl} target="_blank" rel="noopener">CV</a>
+      <ThemeToggle />
+      <button id="menu-btn" class="menu-btn" type="button" aria-label="Menu" aria-expanded="false" aria-controls="mobile-nav">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+
+  <nav id="mobile-nav" class="mobile-nav" aria-label="Mobile">
+    {links.map((l) => <a href={l.href} class:list={['mobile-nav__link', { active: isActive(l.href) }]}>{l.label}</a>)}
+    <a class="mobile-nav__link" href={profile.resumeUrl} target="_blank" rel="noopener">CV / Résumé ↗</a>
+  </nav>
+</header>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: color-mix(in srgb, var(--bg) 82%, transparent);
+    backdrop-filter: saturate(1.4) blur(12px);
+    border-bottom: 1px solid var(--border);
+  }
+  .bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-md);
+    height: 4.2rem;
+  }
+  .brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    text-decoration: none;
+    color: var(--heading);
+    font-weight: 600;
+  }
+  .brand__mark {
+    display: grid;
+    place-items: center;
+    width: 2.1rem;
+    height: 2.1rem;
+    border-radius: 8px;
+    background: var(--accent);
+    color: #fff;
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+  :root[data-theme='dark'] .brand__mark {
+    color: #12121a;
+  }
+  .brand__name {
+    font-size: 0.98rem;
+    white-space: nowrap;
+  }
+
+  .nav {
+    display: flex;
+    gap: 0.15rem;
+    margin-left: auto;
+    margin-right: var(--space-md);
+  }
+  .nav__link {
+    position: relative;
+    color: var(--muted);
+    text-decoration: none;
+    font-size: 0.92rem;
+    font-weight: 500;
+    padding: 0.4rem 0.6rem;
+    border-radius: 8px;
+    transition: color var(--transition), background var(--transition);
+  }
+  .nav__link:hover {
+    color: var(--heading);
+    background: var(--surface-2);
+  }
+  .nav__link.active {
+    color: var(--accent-ink);
+  }
+
+  .bar__actions {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+  .cv-btn {
+    padding: 0.45rem 0.95rem;
+  }
+
+  .menu-btn {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    width: 2.4rem;
+    height: 2.4rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--surface);
+    cursor: pointer;
+  }
+  .menu-btn span {
+    display: block;
+    width: 18px;
+    height: 2px;
+    margin-inline: auto;
+    background: var(--heading);
+    transition: transform var(--transition), opacity var(--transition);
+  }
+  .menu-btn[aria-expanded='true'] span:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+  }
+  .menu-btn[aria-expanded='true'] span:nth-child(2) {
+    opacity: 0;
+  }
+  .menu-btn[aria-expanded='true'] span:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg);
+  }
+
+  .mobile-nav {
+    display: none;
+    flex-direction: column;
+    padding: var(--space-xs) clamp(1.1rem, 5vw, 2rem) var(--space-md);
+    border-top: 1px solid var(--border);
+    background: var(--bg);
+  }
+  .mobile-nav.open {
+    display: flex;
+  }
+  .mobile-nav__link {
+    padding: 0.7rem 0.25rem;
+    color: var(--text);
+    text-decoration: none;
+    font-weight: 500;
+    border-bottom: 1px solid var(--border);
+  }
+  .mobile-nav__link.active {
+    color: var(--accent-ink);
+  }
+
+  @media (max-width: 860px) {
+    .nav,
+    .cv-btn {
+      display: none;
+    }
+    .menu-btn {
+      display: flex;
+    }
+  }
+</style>
+
+<script>
+  const btn = document.getElementById('menu-btn');
+  const menu = document.getElementById('mobile-nav');
+  btn?.addEventListener('click', () => {
+    const open = menu?.classList.toggle('open');
+    btn.setAttribute('aria-expanded', String(!!open));
+  });
+</script>

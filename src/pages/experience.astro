@@ -1,0 +1,144 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHeader from '../components/PageHeader.astro';
+import { experience, activities } from '../data/content';
+---
+
+<Base title="Experience" description="Professional and academic experience of Ashutosh Kakadiya.">
+  <PageHeader
+    eyebrow="Experience"
+    title="Experience"
+    lead="From GoDaddy and Amazon to graduate research at IIT Madras — a path across applied ML research and large-scale products."
+  />
+
+  <section class="container section--tight">
+    <ol class="xp">
+      {
+        experience.map((r) => (
+          <li class="xp__item reveal">
+            <div class="xp__spine">
+              <span class:list={['xp__dot', r.kind]} />
+            </div>
+            <div class="xp__body">
+              <div class="xp__top">
+                <h2>{r.title}</h2>
+                <span class="chip xp__period">{r.period}</span>
+              </div>
+              <p class="xp__org">
+                {r.orgUrl ? (
+                  <a href={r.orgUrl} target="_blank" rel="noopener">{r.org}</a>
+                ) : (
+                  r.org
+                )}
+                {r.location && <span class="text-muted"> · {r.location}</span>}
+              </p>
+              <ul class="xp__points">
+                {r.points.map((pt) => <li>{pt}</li>)}
+              </ul>
+            </div>
+          </li>
+        ))
+      }
+    </ol>
+
+    <div class="activities reveal">
+      <h2>Professional activities</h2>
+      <ul>
+        {activities.map((a) => <li>{a}</li>)}
+      </ul>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .xp {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .xp__item {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: var(--space-md);
+  }
+  .xp__spine {
+    display: flex;
+    justify-content: center;
+    position: relative;
+  }
+  .xp__spine::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: var(--border);
+  }
+  .xp__item:first-child .xp__spine::before {
+    top: 0.7rem;
+  }
+  .xp__item:last-child .xp__spine::before {
+    bottom: auto;
+    height: 0.7rem;
+  }
+  .xp__dot {
+    position: relative;
+    z-index: 1;
+    margin-top: 0.55rem;
+    width: 0.85rem;
+    height: 0.85rem;
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 0 4px var(--bg);
+  }
+  .xp__dot.education {
+    background: var(--surface);
+    border: 2px solid var(--accent);
+  }
+  .xp__body {
+    padding-bottom: var(--space-lg);
+  }
+  .xp__top {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem 0.9rem;
+  }
+  .xp h2 {
+    font-size: var(--step-1);
+  }
+  .xp__period {
+    white-space: nowrap;
+  }
+  .xp__org {
+    margin-top: 0.2rem;
+    font-weight: 500;
+  }
+  .xp__points {
+    margin: var(--space-sm) 0 0;
+    padding-left: 1.15rem;
+    color: var(--muted);
+    font-size: var(--step--1);
+  }
+  .xp__points li + li {
+    margin-top: 0.3rem;
+  }
+
+  .activities {
+    margin-top: var(--space-lg);
+    padding-top: var(--space-lg);
+    border-top: 1px solid var(--border);
+  }
+  .activities h2 {
+    font-size: var(--step-1);
+    margin-bottom: var(--space-sm);
+  }
+  .activities ul {
+    padding-left: 1.15rem;
+    color: var(--muted);
+    font-size: var(--step--1);
+  }
+  .activities li + li {
+    margin-top: 0.4rem;
+  }
+</style>

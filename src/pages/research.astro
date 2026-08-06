@@ -1,0 +1,70 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHeader from '../components/PageHeader.astro';
+import { research } from '../data/content';
+---
+
+<Base title="Research" description="Research in reinforcement learning, statistical relational learning, and generative models.">
+  <PageHeader
+    eyebrow="Research"
+    title="Research"
+    lead="My work sits at the intersection of reinforcement learning, statistical relational learning, and deep generative models — with a bias toward interpretable methods and real-world impact."
+  />
+
+  <section class="container section--tight">
+    <div class="research-list">
+      {
+        research.map((r, i) => (
+          <article class="research-item reveal">
+            <span class="research-item__num">{String(i + 1).padStart(2, '0')}</span>
+            <div class="research-item__body">
+              <h2>{r.title}</h2>
+              <p class="text-muted">{r.blurb}</p>
+              {r.link && (
+                <div class="linklist">
+                  <a href={r.link.href} target="_blank" rel="noopener">{r.link.label}</a>
+                </div>
+              )}
+            </div>
+          </article>
+        ))
+      }
+    </div>
+  </section>
+</Base>
+
+<style>
+  .research-list {
+    display: flex;
+    flex-direction: column;
+  }
+  .research-item {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: var(--space-md);
+    padding: var(--space-lg) 0;
+    border-top: 1px solid var(--border);
+  }
+  .research-item:last-child {
+    border-bottom: 1px solid var(--border);
+  }
+  .research-item__num {
+    font-family: var(--font-mono);
+    font-size: var(--step-1);
+    color: var(--accent-ink);
+    opacity: 0.8;
+  }
+  .research-item h2 {
+    font-size: var(--step-2);
+    margin-bottom: 0.5rem;
+  }
+  .research-item__body .linklist {
+    margin-top: var(--space-sm);
+  }
+  @media (max-width: 560px) {
+    .research-item {
+      grid-template-columns: 1fr;
+      gap: 0.5rem;
+    }
+  }
+</style>
